@@ -1,0 +1,14 @@
+name: spinfood_dashboard
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python<3.12
+  - streamlit=1.38.0
+  - pandas
+  - numpy
+  - plotly
+  - matplotlib
+  - seaborn
+  - geopy
+  - pip
